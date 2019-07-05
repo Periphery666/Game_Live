@@ -1,0 +1,5 @@
+D:\Работа\Level_Up\Home_work\Life_Game\Life_Game\bin\Debug\Life_Game.exe.config
+D:\Работа\Level_Up\Home_work\Life_Game\Life_Game\bin\Debug\Life_Game.exe
+D:\Работа\Level_Up\Home_work\Life_Game\Life_Game\bin\Debug\Life_Game.pdb
+D:\Работа\Level_Up\Home_work\Life_Game\Life_Game\obj\Debug\Life_Game.exe
+D:\Работа\Level_Up\Home_work\Life_Game\Life_Game\obj\Debug\Life_Game.pdb
