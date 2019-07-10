@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Life_Game.Cell" Collapsed="true">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAACAAAAAAEAAAAAAIAAABAABAAAAAAAAAAABA=</HashCode>
+      <FileName>Cell.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Life_Game.Obstacles" Collapsed="true">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>Obstacles.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Life_Game.Ocean" Collapsed="true">
+    <Position X="6.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAgAABAkCAgAACAIgAAAGAAADAAAIAAQAAAEBAAA=</HashCode>
+      <FileName>Ocean.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Life_Game.Predator" Collapsed="true">
+    <Position X="2.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAAAAAAAIAAAAAACAAAAAAAAAAABA=</HashCode>
+      <FileName>Predator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Life_Game.Prey" Collapsed="true">
+    <Position X="2.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAEAAAAAAAAAAAAAAAJAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>Prey.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Life_Game.Randomaizer" Collapsed="true">
+    <Position X="0.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Randomaizer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Life_Game.GuardOcean" Collapsed="true">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIEAAQQAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>GuardOcean.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Life_Game.PredatorLogic" Collapsed="true">
+    <Position X="5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PredatorLogic.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="1.242" />
+  </Class>
+  <Class Name="Life_Game.PreyLogic" Collapsed="true">
+    <Position X="6.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PreyLogic.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="Life_Game.ISwim" Collapsed="true">
+    <Position X="5.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ISwim.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="Life_Game.ValueOcean" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAQAAAAABAAAAAAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ValueOcean.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
