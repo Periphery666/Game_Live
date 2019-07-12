@@ -97,9 +97,6 @@ namespace Life_Game
 
         #endregion
 
-     
-     
-
         public void run()
         {
 
